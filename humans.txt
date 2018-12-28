@@ -7,10 +7,12 @@
 
 # THANKS
 
-    <name>
+    <Krishna>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
-
+krishna Thoutam
+thoutamkrishna@gmail.com
+Devops ebngineer
