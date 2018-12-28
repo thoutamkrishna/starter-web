@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <Krishna>
 
 # TECHNOLOGY COLOPHON
 
