@@ -6,7 +6,7 @@
     <name> Krishna Thoutam <role> -- <twitter>
 
 # THANKS
-
+	Team
     <Krishna>
 
 # TECHNOLOGY COLOPHON
