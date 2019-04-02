@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Krishna Thoutam <role> -- <twitter>
 
 # THANKS
-
-    <name>
+	Team
+    <Krishna>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+krishna Thoutam
+thoutamkrishna@gmail.com
+Devops ebngineer
